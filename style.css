@@ -1,0 +1,111 @@
+.top{
+    position:absolute;
+    background-color:rgb(98, 108, 64);
+    height: 100px;
+    width: 963px;
+    left: 17.2%;
+    border-radius: 2%;
+    border: solid black 5px;
+    
+    
+    font-size: 25px;
+
+    bottom: 84%;
+    color: rgb(195, 195, 59);
+}
+.tname{
+    position: absolute;
+    bottom: 3%;
+    left: 35%;
+    
+   
+}
+.box{
+    
+    height: 300px;
+    width: 300px;
+    border-radius: 2%;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    display: inline-block ;
+    font-size: 20px;
+    align-items: end;
+    border: 5px solid rgb(19, 20, 21) ;
+    background-color: antiquewhite;
+}
+#box1{
+  position: absolute;
+  
+  right: 40%;
+  top: 16.5%;
+
+}
+#box2{
+     position:absolute;
+     right: 18%;
+     top: 16.5%;
+}
+#box3{
+    position:absolute;
+    top: 63%;
+    right: 40%; 
+}
+#box4{ 
+    position:absolute;
+    right: 18%;
+    top: 63%;
+}
+#photo{ 
+    position:absolute;
+    border-radius: 50%; 
+    bottom: 55%;
+    top: 5%;
+    left: 12%;
+    height: 200px;
+    width: 200px;
+    border:  5px solid black;
+}   
+
+#name{
+    position:absolute;
+  font-size: 85px;  
+  bottom: 46%;
+  left: 2%;
+}
+#cont{
+    position:absolute;
+    color: rgb(9, 10, 10);
+    height: 100px;
+    width: 400px;
+    left: 1%;
+    top:55%;
+    
+}
+ b{
+    font-size: 25px;
+ }
+.address{
+    
+    
+    
+    color: aliceblue;
+    font-size: 20px;
+
+    
+   
+}
+#loc{
+    
+    font-size: 25px;
+}
+#outer{
+    position:absolute;
+    width:300px;
+    height: 630px;
+    background-color: rgb(98, 108, 64);
+    left: 17%;
+    top: 16.5%;
+    border-radius: 3%;
+    color: aliceblue;
+    border: 6px solid black;
+}
